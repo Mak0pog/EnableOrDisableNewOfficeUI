@@ -2,9 +2,7 @@
 
 Enable the New Office UI
 
-Program uses Registry to modify settings of Office to let you 
-
-When enabled, program will use a registry tweak to modify settings of Office, registering you as "Office Insider" and will let you update to latest Insider version of Office, which contains the New UI.
+When enabling, program uses a registry tweak to modify settings of Office, registering you as "Office Insider" and will let you update to latest Insider version of Office, which contains the New UI.
 
 
 * __Although the New UI looks beautiful, there is still a chance of Office crashing due to being in Insider version.__
